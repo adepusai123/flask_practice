@@ -35,3 +35,10 @@ Set Environment mode
 Now run server using cmd ``flask run`` runs on 5000
 ``http://127.0.0.1:5000/``
 
+Database handling 
+
+Flask-sqlalchemy is an extension of flask framework which provides the support for SQLAlchemy integration in app.
+
+``pip install flask-sqlalchemy``
+
+it helps to create ORM classes
